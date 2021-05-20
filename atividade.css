@@ -1,0 +1,44 @@
+div{
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+#primeira{
+    border: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+}
+.B1{
+    width: 20%;
+}
+.B2{
+    width: 20%;
+}
+.B3{
+    width: 20%;
+}
+#segunda{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+}
+.B4{
+    height: 200px;
+}
+.B5{
+    height: 200px;
+}
+#terceira{
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+}
+.B6{
+    width: 20%;
+}
+.B7{
+    width: 20%;
+    
+}
